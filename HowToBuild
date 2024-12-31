@@ -1,0 +1,1 @@
+g++ main.cpp -o sfml-app Game.cpp -lsfml-graphics -lsfml-window -lsfml-system -lsfml-network -lsfml-audio
